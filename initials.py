@@ -1,4 +1,4 @@
-# File: initails.py
+# File: initials.py
 # Description: Print out initails in stylized large letters
 # Assignment: 1
 
